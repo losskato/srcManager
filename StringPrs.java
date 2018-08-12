@@ -7,7 +7,7 @@ public class StringPrs {
 	public StringPrs() {
 		// TODO 自動生成されたコンストラクター・スタブ
 
-		this("谷内","淳一郎1");
+		this("谷内","淳一郎12");
 
 	}
 
